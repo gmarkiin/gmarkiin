@@ -1,6 +1,6 @@
 ### Opa! Eu sou Marcos Gabriel aka MarkinC0de 👋
 
-- 🔭 Hoje eu trabalho como Fullstack 
+- 🔭 Trabalho como Fullstack mas tenho maior apitidão com Backend
 - 🌱 Estudo JavaScript, Vue.js e Laravel/PHP
 
 
