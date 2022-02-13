@@ -1,4 +1,4 @@
-### Opa! Eu sou Marcos Gabriel aka MarkinC0de 👋
+### Opa! Eu sou Marcos Gabriel 👋
 
 - 🔭 Trabalho como Backend
 - 🌱 Estudo JavaScript, React e Laravel/PHP
