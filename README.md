@@ -1,9 +1,7 @@
 ### Opa! Eu sou Marcos Gabriel 👋
 
 - Sou Desenvolvedor Backend
-- Estudo PHP - Laravel e Symfony | Docker | Design Patterns | Boas Práticas
-- Tenho interesse em estudar Javascript - Node / Vue.js , Java - SpringBoot e aprender conceitos de Clean Arch.
-
+- PHP - Laravel e Symfony | JavaScript | Docker | Design Patterns | Boas Práticas
 
 <div>
   <a href="https://github.com/MarkinC0de">
