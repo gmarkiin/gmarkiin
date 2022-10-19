@@ -1,7 +1,7 @@
 ### Opa! Eu sou Marcos Gabriel 👋
 
 - Sou Desenvolvedor Backend
-- PHP - Laravel e Symfony | JavaScript | Docker | Design Patterns | Boas Práticas
+- PHP - Laravel e Symfony | JavaScript | Docker | Design Patterns 
 
 <div>
   <a href="https://github.com/MarkinC0de">
